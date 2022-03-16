@@ -1,0 +1,19 @@
+.container {
+  height: 95vh;
+} 
+
+.game_bord {
+  width: 366px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 60px 60px 60px 60px 60px 60px;
+  row-gap: 1px;
+  column-gap: 1px;
+}
+
+.game_keybord {
+  background-color: beige;
+  height: 300px;
+  width: 600px;
+  border: 3px solid #73ad21;
+}

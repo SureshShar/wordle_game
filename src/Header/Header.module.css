@@ -1,0 +1,13 @@
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+    height: 5vh;
+    width:100vw;
+    display: flex;
+   justify-content:space-between;
+   align-items: center;
+}
+
+.title {
+    font-size: 35px;
+}
